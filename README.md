@@ -57,12 +57,21 @@ Desenvolva e faça "commit" em seu próprio repositório.
 Envie para nós seu projeto no GitHub.
 
 (\*)
+
 +---------------------+---------------------+
+
 |                     |                     |
+
 |                     |                     |
+
 |      original       |     processed       |
+
 |                     |                     |
+
 |       image         |       image         |
+
 |                     |                     |
+
 |                     |                     |
+
 +---------------------+---------------------+
