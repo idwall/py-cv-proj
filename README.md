@@ -8,7 +8,7 @@ Test Instructions
 
 Detect circles with diameter greater than 10 pixels.
 
-**Suggested Script and Solution:**
+**Suggested Script and Solution (feel free to choose your own):**
 
 - Apply filters such as opening and closing, to eliminate noise and elements for better circles detection.
 - Use Hough Transform for circles
@@ -38,7 +38,7 @@ Instruções do teste
 
 Detectar os círculos com diâmetro superior a 10 pixels.
 
-**Script e solução sugerida:**
+**Script e solução sugerida (não obrigatória):**
 - Aplicar filtros como abertura e fechamento, para eliminar ruídos e elementos que se confundam com círculos.
 - Utilizar a Transformada de Hough para círculos
 - Verificar se o diâmetro dos círculos obtidos é maior que 10 pixels.
