@@ -17,9 +17,9 @@ Detect circles with diameter greater than 10 pixels.
 
 Directory `images` contains two image files for test your solution.
 
-Use any version of Python and OpenCV (inform your versions if not 3.x).
+Use Python version 3.x.x and OpenCV version 3.1 or superior.
 
-Should be a unique solution for both images
+It is desirable only one unique solution for both images, but not mandatory.
 
 Developing and submitting
 ---
@@ -46,9 +46,9 @@ Detectar os círculos com diâmetro superior a 10 pixels.
 
 As imagens de teste estão disponíveis na pasta `imagens`.
 
-Use qualquer versão de Python e OpenCV (informe as versões utilizadas se diferentes de 3.x).
+Use Python 3.x.x e OpenCV versão 3.1 ou superior.
 
-Deve ser uma solução única para as duas imagens.
+É desejável apenas uma solução única para as duas imagens, mas não mandatório.
 
 Desenvolvimento e entrega
 ---
